@@ -1,7 +1,7 @@
 # Merhaba 👋  **Ben Taner**🦈, _buranın yabancısıym._
 ## 🥷🏾
 > "DİCİPLİNE"
-<img src="file:///C:/Users/taner/OneDrive/Masa%C3%BCst%C3%BC/TNRATS/fecb90f10a1bd4774b423a97caf18363.jpg">
+<img src="https://pbs.twimg.com/media/FMY0aWuXsAkMLLB?format=jpg&name=large">
 <!--
 **tanerats/tanerats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
